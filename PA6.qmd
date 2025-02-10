@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Emily Stokes, Jack lastname, Sophia Nicotera, Dilraj lastname"
 format: revealjs
 editor: visual
 embed-resources: true
